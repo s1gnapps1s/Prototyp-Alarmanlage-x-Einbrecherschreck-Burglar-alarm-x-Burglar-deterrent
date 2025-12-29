@@ -8,7 +8,6 @@ Dieses Repository enthält alle notwendigen Unterlagen für den Hardware-Aufbau:
 Der zugehörige Programmcode ist in diesem Repository nicht öffentlich enthalten. Er ist jedoch auf Anfrage verfügbar. Bei Interesse oder Fragen zum Projekt schreib mir bitte eine Private Nachricht (PM).
 
 ---
-### Deutsch
 * **Kein zertifiziertes System:** Dieses Projekt dient ausschließlich Bildungs- und Hobbyzwecken. Es ist **kein Ersatz** für eine professionelle, zertifizierte Alarmanlage. Der Autor garantiert nicht für die Funktion im Ernstfall.
 * **Haftung:** Die Nutzung und der Nachbau erfolgen auf eigene Gefahr. Der Autor übernimmt keine Haftung für Sachschäden (z. B. durch Einbruch oder Fehlfunktion) oder Personenschäden.
 * **Elektronik-Sicherheit:** Achten Sie beim Löten und Aufbau auf gängige Sicherheitsstandards. Arbeiten an elektrischen Bauteilen können bei unsachgemäßer Handhabung gefährlich sein.
